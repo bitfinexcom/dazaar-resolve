@@ -1,0 +1,22 @@
+{
+  "name": "dazaar-resolve",
+  "version": "0.0.0",
+  "description": "Dazaar generic resolver",
+  "main": "index.js",
+  "dependencies": {},
+  "bin": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitfinexcom/dazaar-resolver.git"
+  },
+  "author": "Paolo Ardoino (@prdn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfinexcom/dazaar-resolver/issues"
+  },
+  "homepage": "https://github.com/bitfinexcom/dazaar-resolver"
+}
